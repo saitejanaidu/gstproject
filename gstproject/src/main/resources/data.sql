@@ -1,0 +1,1 @@
+insert into items values(102."pro-2");
