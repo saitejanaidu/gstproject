@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 @Entity
 public class product {
 	@Id
-	@GeneratedValue
+	
 int prod_id;
 String prod_name;
 int prod_cost;
